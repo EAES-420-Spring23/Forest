@@ -77,7 +77,7 @@ Do not use spaces in code chunk labels.
 
 Remove this text, and add your answer for Exercise 6 here.
 Add code chunks as needed.
-Don't forget to label your code chunk.
+Don't forget to label your code chunk (Find me if you can :)).
 Do not use spaces in code chunk labels.
 
 ### Exercise 9
