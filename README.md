@@ -1,2 +1,2 @@
-# review-1-group-exercises
+# First review session data and Rmd
 Data and starter Rmd for group work.
