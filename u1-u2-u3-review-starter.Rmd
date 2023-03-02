@@ -28,6 +28,7 @@ glimpse(sites)
 
 There are 23 rows and 2 variables. 
 
+What each row means is the location at which of the 10 locations each mineral is found at.
 
 ### Exercise 2
 
