@@ -46,6 +46,12 @@ Density has 3 rows and 2 columns, solubility_hardness has 3 rows and 3 columns, 
 
 Each row in this data set are the minerals(Quartz, Feldspar, Biotite), and the locations(1-10
 .
+```{r variable-names}
+names(density)
+names(solubility_hardness)
+names(location_descriptions)
+```
+
 ### Exercise 3
 
 Remove this text, and add your answer for Exercise 3 here.
